@@ -1,0 +1,29 @@
+
+.mapWindow {
+
+  text-align: center;
+
+  table, tbody, tr, td {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  #Close {
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    width: 120px;
+    height: 60px;
+    font-size: 16px;
+  }
+
+  #MapImage {
+    img, canvas {
+      max-width: 700px;
+      max-height: 320px;
+    }
+  }
+
+}

@@ -1,0 +1,8 @@
+{
+  "strict": true,
+  "browser": true,
+  "esversion": 6,
+  "devel": true,
+  "globalstrict": true,
+  "loopfunc": true
+}
